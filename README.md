@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 🎓 3rd-year student at IIT Jodhpur<br>👨‍💻 Software developer with knowledge of the MERN stack<br>🤖 Working on an ML project<br>🎨 Knowledge of design from Figma, development with MERN, and deployment with SEO<br>🚀 Working on a text-to-3D project, successfully converting panoramas to 3D with point cloud<br>
 
